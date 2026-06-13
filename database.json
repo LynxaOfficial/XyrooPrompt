@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "p_mqcjlvsiwjrc",
+    "username": "Xyroo",
+    "prompt": "Create an image using the original face from the reference photo without changing the facial structure, skin tone, or identity. The face must remain identical, natural, and realistic (not Al-generated looking).\nMacBook screen selfie mirror, medium close-up (chest up), slightly tilted framing (subtle tilt), main focus to the laptop screen, realistic perspective as taken using HP from the front of the screen.\noutfit: oversized black hoodie made from cotton fleece, worn hood, without big logo, relaxed loose fit, wear thick frame glasses\npose: head slightly lowered and tilted, hair covering part of the eye, one hand styled near the nose, the other hand holding the iPhone as if a mirror photo, cool expression, relaxed, not made up environment:\nminimalist room with dim light, vertical line panel wall background + marble texture, on the MacBook screen visible Photo Booth application preview window, Spotify application on the side.\nlight from the MacBook screen (soft cool light) + ambient indoor light warm thin, natural, without cinematic effects, without bokeh, facial details remain sharp and realistic aspect ratio: 3: 4\nnegative prompt: worst quality, low quality, lowres, blurry, ugly, distorted, deformed, watermark, text, signature, bad anatomy, bad hands, missing fingers, extra limos, fused fingers, distorted face, plastic skin, unrealistic reflection.",
+    "mode": "public",
+    "key": null,
+    "tag": "Selfie Create Photo Ai",
+    "ai": "gemini",
+    "date": "2026-06-13"
+  }
+]
