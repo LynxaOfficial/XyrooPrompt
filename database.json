@@ -1,11 +1,11 @@
 [
   {
-    "id": "p_mqcjoecuxzwq",
+    "id": "p_mqcjpqy3p9r3",
     "username": "Xyroo",
     "prompt": "Saya punya kode berikut:\n\n[PASTE KODE]\n\nTolong:\n1. Jelaskan fungsinya\n2. Cari bug (jika ada)\n3. Berikan versi yang lebih optimal",
     "mode": "public",
     "key": null,
-    "tag": "Nano ZoppBug",
+    "tag": "Coding Asisten Quickly Help",
     "ai": "chatgpt",
     "date": "2026-06-13"
   },
